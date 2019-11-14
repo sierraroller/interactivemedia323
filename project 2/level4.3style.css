@@ -1,0 +1,23 @@
+body {
+	background-color: black;
+}
+
+h4{
+	text-align: center;
+	text-transform: uppercase;
+}
+
+
+.black {
+ margin: 0px;
+ padding: 0px;
+ text-align: center;
+ font-size: 100px;
+ font-family: times-new-roman;
+ font-style: normal;
+ text-transform: lowercase;
+ letter-spacing: 200px;
+ color: white;
+ background-color: black;
+ text-shadow: 0 0 10px #fff, 0 0 30px white , 0 0 50px gray;
+}

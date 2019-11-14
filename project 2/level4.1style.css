@@ -1,0 +1,137 @@
+font-style
+font-weight
+font-size
+font-family
+text-align
+line-height
+letter-spacing
+text-transform
+
+body {
+
+}
+
+h1 {
+    text-align: center;
+    font-style: oblique;
+}
+.spider {
+    font-family: helvetica;
+    font-style: italic;
+    font-size: 200px;
+    text-align: center;
+    font-style: italic;
+
+}
+
+.threads {
+    padding: 400px;
+    position: relative;
+    margin: 100px;
+    display: center;
+    float: inherit;
+    font-family: Didot;
+    text-align: center;
+    font-size: 70px;
+
+
+}
+
+h2 {
+    text-align: center;
+    font-style: oblique;
+}
+
+
+.tripwires {
+    font-size: 230px;
+    font-family: sans-serif;
+    text-align: right;
+    padding-top: 0;
+    letter-spacing: 15px;
+    border: 20px thin;
+    border-style: dashed;
+
+}
+
+
+.fall {
+    text-align: center;
+    font-size: 75px;
+    background-color: gray;
+    margin: 200px;
+    padding-bottom: 300px;
+    padding-top: 300px;
+
+}
+
+h3 {
+    text-align: center;
+    font-style: oblique;
+}
+
+.kindred {
+    text-align: center;
+    font-size: 15px;
+    font-family: didot;
+    font-style: normal;
+    letter-spacing: 50px;
+    color: white;
+    background-color: black;
+    margin: 200px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+
+}
+
+.hands {
+    font-family: helvetica;
+    font-style: italic;
+    font-size: 200px;
+    text-align: center;
+    font-style: italic;
+
+}
+
+h4 {
+    text-align: center;
+    font-style: oblique;
+}
+
+.hot {
+    font-family: helvetica;
+    font-style: italic;
+    font-size: 200px;
+    border: 20px thin;
+    border-style: solid;
+    text-align: center;
+    font-style: italic;
+
+}
+
+body {
+}
+.Poem {
+ font-size: 350px;
+ font-family: sans-serif;
+ padding-top: 0;
+ letter-spacing: 15px;
+}
+.move {
+ font-size: 100px;
+ font-family: Garamond;
+ letter-spacing: 75px;
+}
+.gray {
+ text-align: center;
+ font-size: 75px;
+ letter-spacing: 50px;
+ background-color: gray;
+}
+.black {
+ text-align: center;
+ font-size: 75px;
+ letter-spacing: 50px;
+ color: white;
+ background-color: black;
+}

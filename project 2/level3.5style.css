@@ -1,0 +1,36 @@
+body {
+    position: relative
+    background-color: gray;
+}
+
+
+body {
+    margin: 0;
+    background-color: black;
+}
+
+.title {
+    color: black;
+    text-align: left;
+    position:absolute;
+    margin: 100px;
+    padding: 20px;
+}
+
+
+.text {
+    width: 100px;
+    color: white;
+    display: ;
+    position: relative;
+    padding: 300px;
+    padding-bottom: 500px;
+    margin-left:36%;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+    
+}

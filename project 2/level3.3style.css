@@ -1,0 +1,56 @@
+h2.header {
+    float: flex-center;
+    
+}
+
+ h3.border {
+    width: 40px;
+    padding: 600px;
+    border: 4px thin;
+    border-style: solid;
+    position: flex;
+    margin: 0px;
+    display: block center;
+    float: inherit;
+    text-align-last: center;
+ }
+
+ h4.content1 {
+    border-style: thin;
+    width: 600px;
+    padding: 20px;
+    border: 4px thin;
+    position: absolute-right;
+    margin: 0px;
+    display: inline-right;
+    float: right;
+    text-align-last: right;
+
+ }
+
+
+ h5.content2 {
+    border-style: thin;
+    width: 500px;
+    padding: 400px;
+    border: 4px thin;
+    border-style: solid;
+    position: absolute;
+    margin: 0px;
+    display: inline-right;
+    float: inherit;
+    text-align: bottom;
+
+ }
+
+   border-style: solid;
+    border-width: thin;
+    width: 200px;
+    padding: 20px;
+    border: 2px dotted;
+    margin: 10px;
+    display: inline-block;
+    float: inherit;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center; 
