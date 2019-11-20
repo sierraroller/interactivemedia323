@@ -1,0 +1,51 @@
+body {
+    background-color: darkgray;
+
+}
+
+
+#wrapper {
+    text-align: center;
+    text-transform: lowercase;
+    font-weight: bold;
+  font-size: 60pt;
+  font-family: helvetica;
+  line-height: 70pt;
+}
+
+
+
+.anim {
+      animation-duration: 750ms;
+      animation-play-state: paused;
+      animation-iteration-count: infinite;
+      pointer-events: none;
+    }
+
+.triggerbox {
+      text-align: center;
+      padding-left: 15px;
+      padding-right: 15px;
+      margin-top: 20px;
+    }
+
+
+.triggerbox:hover .anim {
+    animation-play-state: running;
+    }
+
+@keyframes line1{
+      0% { transform: rotate(-180deg); right: 0px; top: 0px; color: black;}
+      50% { transform: rotate(180deg) translate(50px); color: white;}
+      100% { transform: rotate(-180deg); right: 0px; top: 0px; color: black;}
+    }
+    
+@keyframes line2{
+      0% { transform: rotate(180deg); right: 0px; top: 0px; color: black;}
+      50% { transform: rotate(-180deg) translate(-50px); color: white;}
+      100% { transform: rotate(180deg); right: 0px; top: 0px; color: black;}
+    }
+    
+.nav {
+  color:white;
+}

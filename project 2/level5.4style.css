@@ -1,0 +1,80 @@
+.one {
+	font-family: Courier New;
+	font-size: 20px;
+	text-align: right;
+	color: black;
+	position: relative;
+	text-shadow: 0 0 10px #9999ff;
+	transition: color 0.3s;
+	letter-spacing: 20px;
+	-webkit-transition:color 0.3s;
+	font-weight: bolder;
+	filter: blur(3px);
+}
+
+.one:hover {
+	color: #9999ff;
+		filter: blur(0px);
+}
+
+
+ body {
+ 	background: black;
+ }
+
+ .two {
+	font-family: Courier New ;
+	font-size: 20px;
+	text-align: left;
+	color: black;
+	position: absolute;
+	transition: color 0.3s;
+	text-shadow: 0 0 10px #9999ff;
+	letter-spacing: 20px;
+	-webkit-transition:color 0.3s;
+	font-weight: bold;
+	filter: blur(3px);
+ }
+
+.two:hover {
+	color: #9999ff;
+		filter: blur(0px);
+}
+
+ .three {
+	font-family: Courier New ;
+	font-size: 20px;
+	text-align: center;
+	color: black;
+	position: relative;
+	transition: color 0.3s;
+	text-shadow: 0 0 10px #9999ff;
+	letter-spacing: 20px;
+	-webkit-transition:color 0.3s;
+	font-weight: bold;
+	filter: blur(3px);
+ }
+
+.three:hover {
+	color: #9999ff;
+		filter: blur(0px);
+}
+
+ .four {
+	font-family: Courier New ;
+	font-size: 20px;
+	text-align: right;
+	position: relative;
+	color: black;
+	transition: color 0.3s;
+	text-shadow: 0 0 10px #9999ff;
+	letter-spacing: 20px;
+	-webkit-transition:color 0.3s;
+	font-weight: bold;
+	filter: blur(3px);
+ }
+
+ .four:hover {
+ 	color: #9999ff;
+ 		filter: blur(0px);
+ }

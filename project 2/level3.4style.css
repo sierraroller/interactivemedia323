@@ -1,6 +1,7 @@
 body {
     position: relative
     background-color: gray;
+    text-shadow: 0 0 20px #9999ff;
 }
 
 

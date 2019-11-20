@@ -1,0 +1,91 @@
+
+ body {
+ 	background: #9999ff;
+ }
+
+
+.one {
+	font-family: Didot;
+	font-size: 100px;
+	text-align: right;
+	color: black;
+	position: relative;
+	text-shadow: 0 0 10px lightgray;
+	transition: color 0.3s;
+	letter-spacing: 20px;
+	-webkit-transition:color 0.3s;
+	font-weight: bolder;
+}
+
+.one:hover {
+	color: #9999ff;
+}
+
+
+.two {
+	font-family: Didot;
+	font-size: 100px;
+	text-align: left;
+	color: #9999ff;
+	position: relative;
+	text-shadow: 0 0 10px lightgray;
+	transition: color 0.3s;
+	letter-spacing: 20px;
+	-webkit-transition:color 0.3s;
+	font-weight: bolder;
+}
+
+.two:hover {
+	color: lightgray;
+}
+
+.three {
+	font-family: Didot;
+	font-size: 100px;
+	text-align: right;
+	color: white;
+	position: relative;
+	text-shadow: 0 0 10px lightgray;
+	transition: color 0.3s;
+	letter-spacing: 20px;
+	-webkit-transition:color 0.3s;
+	font-weight: bolder;
+}
+
+.three:hover {
+	color: black;
+}
+
+.four {
+	font-family: Didot;
+	font-size: 100px;
+	text-align: left;
+	color: black;
+	position: relative;
+	text-shadow: 0 0 10px lightgray;
+	transition: color 0.3s;
+	letter-spacing: 20px;
+	-webkit-transition:color 0.3s;
+	font-weight: bolder;
+}
+
+.four:hover {
+	color: #9999ff;
+}
+
+.five {
+	font-family: Didot;
+	font-size: 100px;
+	text-align: right;
+	color: lightgray;
+	position: relative;
+	text-shadow: 0 0 10px lightgray;
+	transition: color 0.3s;
+	letter-spacing: 20px;
+	-webkit-transition:color 0.3s;
+	font-weight: bolder;
+}
+
+.five:hover {
+	color: white;
+}

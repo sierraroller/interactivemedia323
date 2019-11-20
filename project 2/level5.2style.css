@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+
+h1 {
+   
+    position: relative;
+    font: 100px helvetica, Sans-Serif;
+    font-style: italic;
+    color: #9999ff;
+    width: 100%;
+}
+
+h1:after {
+    content: "a spider lives in the web of Wyrd, weaving its threads as he wills."
+"he lays down tripwires for unwary feet, and laughs when we fall on our faces."
+"he gives strife to the kindred in the mead-hall of life, building a fire for our hands,"
+"but if we put our hands in is it our fault or his? we knew it was hot 'fore we touched it. ";
+    position: fixed;
+    align-content: center;
+    text-transform: uppercase;
+    font-style: bold;
+    left: 5px;
+    top: 5px;
+    text-shadow: 0 0 20px black;
+    color: #5c0099;
+}

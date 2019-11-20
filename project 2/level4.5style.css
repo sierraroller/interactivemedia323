@@ -1,0 +1,141 @@
+body {
+	background-color: white;
+}
+
+h4{
+	text-align: center;
+	text-transform: uppercase;
+}
+
+
+.box1 {
+ margin: 10px;
+ padding: 10px;
+ text-align: right;
+ font-size: 20px;
+ font-family: baskerville;
+ font-style: normal;
+ width: 300px;
+ height: :50px;
+ position: relative;
+ letter-spacing: 20px;
+ text-transform: lowercase;
+ color: black;
+ background-color: lightgray;
+}
+
+.box2 {
+ margin: 10px;
+ padding: 10px;
+ text-align: left;
+ font-size: 40px;
+ font-family: serif;
+ font-style: normal;
+ position: relative;
+ width: 400px;
+ letter-spacing: 20px;
+ color: white;
+ background-color: black;
+}
+
+.box3 {
+ margin: 10px;
+ padding: 10px;
+ width: 500px;
+ text-align: right;
+ font-size: 60px;
+ font-family: baskerville;
+ font-style: normal;
+ text-transform: lowercase;
+ letter-spacing: 20px;
+ color: black;
+ background-color: lightgray;
+}
+
+.box4 {
+ margin: 10px;
+ padding: 10px;
+ text-align: left;
+ font-size: 50px;
+ font-family: baskerville;
+ font-style: normal;
+ position: relative;
+ width: 600px;
+ height: 300px;
+ letter-spacing: 20px;
+ color: white;
+ background-color: black;
+}
+
+.box5 {
+ margin: 10px;
+ padding: 10px;
+ width: 800px;
+ text-align: right;
+ font-size: 60px;
+ font-family: baskerville;
+ font-style: normal;
+ letter-spacing: 20px;
+ text-transform: lowercase;
+ color: black;
+ background-color: lightgray;
+}
+
+.box6 {
+ margin: 10px;
+ padding: 10px;
+ text-align: left;
+ font-size: 70px;
+ font-family: baskerville;
+ font-style: normal;
+ position: relative;
+ width: 1000px;
+ letter-spacing: 20px;
+ color: white;
+ background-color: black;
+}
+
+.box7 {
+ margin: 10px;
+ padding: 10px;
+ width: 1200px;
+ text-align: right;
+ font-size: 80px;
+ font-family: baskerville;
+ font-style: normal;
+ text-transform: lowercase;
+ letter-spacing: 20px;
+ color: black;
+ background-color: lightgray;
+}
+
+.box8 {
+ margin: 10px;
+ padding: 10px;
+ text-align: left;
+ font-size: 90px;
+ font-family: baskerville;
+ font-style: normal;
+ position: relative;
+ width: 1500px;
+ height: 350px;
+ letter-spacing: 20px;
+ color: white;
+ background-color: black;
+}
+
+.box9 {
+ margin: 10px;
+ padding: 10px;
+ width: 2000px;
+ text-align: right;
+ font-size: 100px;
+ font-family: baskerville;
+ font-style: normal;
+ text-transform: uppercase;
+ letter-spacing: 20px;
+ color: black;
+ background-color: lightgray;
+}
+
+

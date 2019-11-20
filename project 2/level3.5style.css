@@ -10,22 +10,24 @@ body {
 }
 
 .title {
-    color: black;
+    color: white;
     text-align: left;
     position:absolute;
+    letter-spacing: 30px;
     margin: 100px;
     padding: 20px;
 }
 
 
 .text {
-    width: 100px;
+    width: 200px;
     color: white;
-    display: ;
+    float: inherit;
     position: relative;
+    letter-spacing: 80px;
     padding: 300px;
     padding-bottom: 500px;
-    margin-left:36%;
+    margin-left:40%;
     text-align: center;
 }
 

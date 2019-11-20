@@ -1,0 +1,140 @@
+.one {
+	font-family: Courier New;
+	font-size: 20px;
+	text-align: right;
+	color: black;
+	position: relative;
+	text-shadow: 0 0 10px #9999ff;
+	transition: color 0.3s;
+	letter-spacing: 20px;
+	-webkit-transition:color 0.3s;
+	font-weight: bolder;
+}
+
+.one:hover {
+	color: #9999ff;
+}
+
+
+ body {
+ 	background: black;
+ }
+
+ .two {
+	font-family: Courier New ;
+	font-size: 60px;
+	text-align: left;
+	color: black;
+	position: absolute;
+	transition: color 0.3s;
+	text-shadow: 0 0 10px #9999ff;
+	letter-spacing: 20px;
+	-webkit-transition:color 0.3s;
+	font-weight: bold;
+ }
+
+.two:hover {
+	color: #9999ff;
+}
+
+ .three {
+	font-family: Courier New ;
+	font-size: 190px;
+	text-align: center;
+	color: black;
+	position: relative;
+	transition: color 0.3s;
+	text-shadow: 0 0 10px #9999ff;
+	letter-spacing: 20px;
+	-webkit-transition:color 0.3s;
+	font-weight: bold;
+ }
+
+.three:hover {
+	color: #9999ff;
+}
+
+ .four {
+	font-family: Courier New ;
+	font-size: 40px;
+	text-align: right;
+	position: relative;
+	color: black;
+	transition: color 0.3s;
+	text-shadow: 0 0 10px #9999ff;
+	letter-spacing: 20px;
+	-webkit-transition:color 0.3s;
+	font-weight: bold;
+ }
+
+ .four:hover {
+ 	color: #9999ff;
+ }
+
+ .five {
+	font-family: Courier New ;
+	font-size: 40px;
+	text-align: left;
+	position: absolute;
+	color: black;
+	transition: color 0.3s;
+	letter-spacing: 20px;
+	text-shadow: 0 0 10px #9999ff;
+	-webkit-transition:color 0.3s;
+	font-weight: bold;
+ }
+
+ .five:hover {
+ 	color: #9999ff;
+ }
+
+ .six {
+	font-family: Courier New ;
+	font-size: 120px;
+	text-align: center;
+	color: black;
+	position: relative;
+	text-shadow: 0 0 10px #9999ff;
+	letter-spacing: 20px;
+	transition: color 0.3s;
+	-webkit-transition:color 0.3s;
+	font-weight: bold;
+ }
+
+ .six:hover {
+ 	color: #9999ff;
+ }
+
+ .seven {
+	font-family: Courier New ;
+	font-size: 30px;
+	text-align: right;
+	position: absolute;
+	color: black;
+	text-shadow: 0 0 10px #9999ff;
+	letter-spacing: 20px;
+	transition: color 0.3s;
+	-webkit-transition:color 0.3s;
+	font-weight: bold;
+ }
+
+ .seven:hover {
+ 	color: #9999ff;
+ }
+
+ .eight {
+	font-family: Courier New ;
+	font-size: 20px;
+	text-align: left;
+	position: fixed;
+	color: black;
+	text-shadow: 0 0 10px #9999ff;
+	letter-spacing: 20px;
+	transition: color 0.3s;
+	-webkit-transition:color 0.3s;
+	font-weight: bold;
+ }
+
+.eight:hover {
+	color: #9999ff;
+}
