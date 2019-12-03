@@ -1,0 +1,38 @@
+body {
+  background: rgb(36,92,24);
+  background: linear-gradient(90deg, #586674 0%, #6c936c 60%);
+  margin-left: 100px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  font-family: 'Crimson Pro'; font-size: 26px;
+  overflow: scroll;
+}
+
+.text {
+  color: black;
+  text-align: justify;
+}
+
+#next:hover {
+  text-transform: uppercase;
+  color:#950808;
+  }
+
+#line1 #line2 {
+	display: inline;
+}
+
+
+
+
+a {
+	text-decoration: none;
+	color: #586674;
+	text-shadow: 0 0 3px lightgrey;
+
+}
+  a:hover {
+  	color: #950808;
+  	text-decoration: none;
+  	text-shadow: none;
+  }
